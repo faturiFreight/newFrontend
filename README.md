@@ -1,2 +1,0 @@
-# newFrontend
-Created with CodeSandbox
