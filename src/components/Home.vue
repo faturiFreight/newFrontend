@@ -89,5 +89,18 @@
     <section id="howItWorks" class="s-how">
       <h1 class="text-center display-4 mb-5">How It Works</h1>
     </section>
+    <carousel/>
   </div>
 </template>
+
+<script>
+import Carousel from "./CarouselHome.vue";
+
+export default {
+  name: "Home",
+  components: {
+    Carousel
+  }
+};
+</script>
+

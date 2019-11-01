@@ -23,7 +23,7 @@
           <router-link to="#services" tag="a" data-hover="Services">Services</router-link>
         </li>
         <li class="nav-item cl-effect-4">
-          <router-link to="#ourServices" tag="a">How it works</router-link>
+          <router-link to="/" tag="a">How it works</router-link>
         </li>
         <li class="nav-item cl-effect-4">
           <router-link to="#ourServices" tag="a">Partners</router-link>
